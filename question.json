@@ -1,0 +1,36 @@
+[
+    { "question" : "New Hero Mobile Legend?",
+     "choice1" : "Benedetta",
+     "choice2" : "Natalia",
+     "choice3" : "Lancelot",
+     "choice4": "Gussion",
+     "answer" : 1
+ },{
+    "question" : "Champion Assasin?",
+     "choice1" : "Ezreal",
+     "choice2" : "Jinx",
+     "choice3" : "Ahri",
+     "choice4": "Yasuo",
+     "answer" : 4
+ },{
+    "question" : "Champion Mage KDA",
+    "choice1" : "Amumu",
+    "choice2" : "Lux",
+    "choice3" : "Lee sin",
+    "choice4": "Yasuo",
+    "answer" : 2
+ },{
+    "question" : "Tank Mobile Legend",
+     "choice1" : "Johnson",
+     "choice2" : "Argus",
+     "choice3" : "Gord",
+     "choice4": "Kagura",
+     "answer" : 1
+ },{
+    "question" : "Most mobility hero Mobile Legend",
+     "choice1" : "Minotaur",
+     "choice2" : "Aurora",
+     "choice3" : "Ling",
+     "choice4": "Khaleed",
+     "answer" : 3
+ }]
